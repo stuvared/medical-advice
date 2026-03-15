@@ -1,0 +1,7 @@
+{
+  "name": "HealthBuddy AI",
+  "description": "A high-performance, empathetic healthcare assistant powered by Gemini 3.0. Features intelligent symptom guidance, wellness tracking, and Google Search grounding for up-to-date medical information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
